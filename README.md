@@ -29,13 +29,13 @@
   <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/density%20function%20after%20winsorization.jpg" alt="" width="600"/>
 </div>
 
-- This plot  present  ROC (Receiver Operating Characteristic) curve for the train dataset. 
+- This plot  present  `ROC (Receiver Operating Characteristic) curve` for the train dataset. `AUC` = 0,52
 <div align="center">
   <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/Roc%20curve%20for%20training%20dataset.jpg" alt=""/>
 </div>
 
-- This plot  present  ROC (Receiver Operating Characteristic) curve for the test dataset. 
+- This plot  present ` ROC (Receiver Operating Characteristic) curve` for the test dataset. `AUC`=0,5
 <div align="center">
-  <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/Roc%20curve%20for%20training%20dataset.jpg" alt=""/>
+  <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/ROC%20curve%20for%20test%20dataset.jpg" alt=""/>
 </div>
 
