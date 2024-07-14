@@ -6,7 +6,7 @@
 - *risk_code.R* - analysis, modeling and testing procedure stored as R script
 
 # Methodology
-- `Data Generation`:
+- **Data Generation**:
  + Use the provided 00_database_generation.R script to generate loans.csv and clients.csv.
 -Data Merging:
  + Merge the two datasets
