@@ -2,8 +2,8 @@
 - `Credit risk project` that involves generating and analyzing simulating financial data to assess credit risk.  
 
 # Content
-- *database* - raw dataset 
-- *risk_code.R* - analysis, modeling and testing procedure stored as R script
+- [database](https://github.com/dzima22/credit-risk-project-/tree/main/database) - raw dataset 
+- [risk_code.R](https://github.com/dzima22/credit-risk-project-/blob/main/risk_code.R) - analysis, modeling and testing procedure stored as R script
 
 # Methodology
 - **Data Generation**:
