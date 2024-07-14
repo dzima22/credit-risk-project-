@@ -23,13 +23,10 @@
 - **Bootstrap Confidence Intervals**:
     + Calculate bootstrap confidence intervals for the AUC with a 90% confidence level.
 # Findings
-<div align="center">
-  <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/density%20function%20after%20winsorization.jpg" alt="" width="600"/>
-</div>
 
 - This plot shows the density function of the loan values after applying winsorization.
 <div align="center">
-  <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/Roc%20curve%20for%20training%20dataset.jpg" alt=""/>
+  <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/density%20function%20after%20winsorization.jpg" alt="" width="600"/>
 </div>
 
 - This plot  present  ROC (Receiver Operating Characteristic) curve for the train dataset. 
@@ -38,3 +35,7 @@
 </div>
 
 - This plot  present  ROC (Receiver Operating Characteristic) curve for the test dataset. 
+<div align="center">
+  <img src="https://github.com/dzima22/credit-risk-project-/blob/main/results/Roc%20curve%20for%20training%20dataset.jpg" alt=""/>
+</div>
+
