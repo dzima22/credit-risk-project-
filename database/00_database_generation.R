@@ -1,13 +1,3 @@
-###################################################################
-# script name:    00_database_generation_R.R
-# author:         Zuzanna Wosko
-# version:        0.1
-#
-# log:
-# 16.06.2018      Initial version 
-# 22.09.2018      Second version
-##################################################################
-
 
 rm(list = ls())
 
